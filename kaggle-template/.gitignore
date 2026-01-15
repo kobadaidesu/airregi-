@@ -1,7 +1,6 @@
 /.virtual_documents
 /.jupyter
 /.ipython
-/input
 /output
 /wandb
 /.netrc
